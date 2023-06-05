@@ -3,7 +3,7 @@ An app that scans and tracks the clothes in the wardrobe to reduce the fast fash
 
 The initial step will be the creation of the template and the analysis of the user experience, the next step will be:
 
-1 - Creation of the REST API environment for Login, upload and clothes management
+1 - Creation of the REST API environment for Login, upload and clothes management\n
 2 -Give users the ability to share your outfit ideas
 3 -Connect the app to the main used markets
 4 - AI that tracks and suggests to users the garments that are not used frequently
